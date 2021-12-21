@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_variables.scss",
+        "../scss/_general.scss",
+        "../scss/_mixins.scss",
+        "../scss/all-blocks/_all-blocks.scss",
+        "../scss/all-blocks/_container.scss",
+        "../scss/all-blocks/_header.scss",
+        "../scss/all-blocks/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
