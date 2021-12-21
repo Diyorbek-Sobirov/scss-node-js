@@ -1,0 +1,24 @@
+{
+  "name": "scss-bootstrap-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diyorbek-Sobirov/scss-node-js.git"
+  },
+  "author": "Diyorbek sobirov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diyorbek-Sobirov/scss-node-js/issues"
+  },
+  "homepage": "https://github.com/Diyorbek-Sobirov/scss-node-js#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
